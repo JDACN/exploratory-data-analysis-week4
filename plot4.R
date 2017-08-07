@@ -29,7 +29,7 @@ g <- ggplot(aggregatedTotalByYear, aes(factor(year), Emissions))
 g <- g + geom_bar(stat="identity") +
       xlab("year") +
       ylab("Total PM 2.5 Emissions") +
-      ggtitle("Total Emissions in Baltimore City from 1999 to 2008")
+      ggtitle("Total Emissions coal combustion-related sources from 1999 to 2008")
 print(g)
 
 
