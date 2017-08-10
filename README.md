@@ -31,26 +31,26 @@ unzip("NEI_data.zip")
 ```
 
 - [plot 1.R](plot1.R) 
-
-      ![Output of plot 1](plot1.png)
+  
+      ![](plot1.png)
       
-- [plot 2.R](plot2.R)
+- [plot 2.R](plot2.R)  
 
-      ![Output of plot 2](plot2.png)
+      ![](plot2.png)
       
-- [plot 3.R](plot3.R)
+- [plot 3.R](plot3.R)  
 
-      ![Output of plot 3](plot3.png)
+      ![](plot3.png)
       
-- [plot 4.R](plot4.R)
+- [plot 4.R](plot4.R)  
 
-      ![Output of plot 4](plot4.png)
+      ![](plot4.png)
       
-- [plot 5.R](plot5.R)
+- [plot 5.R](plot5.R)  
 
-      ![Output of plot 5](plot5.png)
+      ![](plot5.png)
       
-- [plot 6.R](plot6.R)
+- [plot 6.R](plot6.R)  
 
-      ![Output of plot 6](plot6.png)
+      ![](plot6.png)
 
